@@ -1,0 +1,15 @@
+{
+  "model": "periodic_unit_cell",
+  "spacing_um": 60,
+  "f_nos2": 0.02,
+  "enos": true,
+  "k_lumen_per_s": 1300,
+  "mesh_nodes": 11708,
+  "iterates": 12,
+  "tissue_area_um2": 3521.4601849679266,
+  "mean_NO_nM": 1.7893190297884585,
+  "mean_O2_uM": 51.78064421905348,
+  "anoxic_frac": 0.0,
+  "sig_frac": 0.9924519276309762,
+  "shell_area_err": 0.0035631150820477973
+}

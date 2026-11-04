@@ -1,0 +1,67 @@
+{
+  "role": "oxygen series",
+  "field_units": "nM",
+  "shape": [
+    141,
+    141,
+    141
+  ],
+  "order": "C",
+  "dtype": "float32_le",
+  "grid_bounds_um": [
+    -140.0,
+    140.0
+  ],
+  "grid_spacing_um": 2.0,
+  "axis_um": "x, y, z all span grid_bounds_um with grid_spacing_um",
+  "focus_radius_um": 50.0,
+  "cell_radius_um": 7.917510111352962,
+  "cell_centres_um": [
+    [
+      0.0922932270939567,
+      22.41361987012741,
+      -20.567409084483845
+    ],
+    [
+      -19.485269466800748,
+      -42.49778294559412,
+      2.577500779762331
+    ],
+    [
+      -17.25680505548104,
+      -21.753906103328493,
+      17.173906580722363
+    ],
+    [
+      4.619112821863402,
+      -40.771877772724224,
+      -1.2817761307171296
+    ],
+    [
+      -28.2188823882358,
+      -9.606654953912093,
+      -39.91206686212216
+    ]
+  ],
+  "n_cells": 5,
+  "O2_uM": 2.0,
+  "expressing_fraction": 0.05,
+  "rho_cells_per_mL": 202000000.0,
+  "seed": 7,
+  "thresholds_nM": [
+    1.0,
+    10.0,
+    30.0
+  ],
+  "peak_nM": 1.328585147857666,
+  "parameter_set": {
+    "K_m_NOS2_M": 4.2e-05,
+    "V_max_NOS2_M_s": 1.718e-06,
+    "RHO_TUMOUR": 202000000.0,
+    "PHI_TUMOUR": 0.42,
+    "CELL_VOLUME_MODEL_UM3": 2079.0,
+    "K_OBS_PUB": 0.000538,
+    "K_ANOXIA_PUB": 1.336e-08,
+    "O2_STAR_uM": 24.832713754646843
+  }
+}

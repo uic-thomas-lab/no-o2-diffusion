@@ -1,0 +1,14 @@
+# Figure 7 panel D -- steady_state_no (tumour arm (Fig 1h/2 cube peak)). nominal = 12.14880041 nM
+"# FIVE outputs, SEVEN axes."
+"# ALL SEVEN AXES, SHARED ORDER, rows ascending -- the TOP bar is the LAST row"
+# in_arm=0 -> BLANK ROW: the axis cannot move this output at all
+# in_arm=1 with a 0 pct -> ONE-SIDED: that endpoint equals the nominal
+"# source: scripts/tornado_v2_results.csv, swept 2026-09-28 (not re-run)"
+row_from_bottom,axis,display_name,in_arm,value_at_axis_low,value_at_axis_high,pct_low,pct_high,abs_swing_pct
+1,KM_NOS2,K_m NOS2 (+V_max),1,13.11030062,12.14880041,7.914363,0.000000,7.914363
+2,packing_fraction,packing fraction,1,12.87753309,11.6212673,5.998392,-4.342265,10.340657
+3,rim_O2,rim [O2],1,6.814458821,12.14880041,-43.908381,0.000000,43.908381
+4,k_anoxia,k_anoxia,1,12.40640207,11.80763621,2.120388,-2.808213,4.928601
+5,mito_inhibition,"K_m,resp (+K_I)",0,12.14880041,12.14880041,0.000000,0.000000,0.000000
+6,D_NO,D_NO,1,26.92285287,12.14880041,121.609146,0.000000,121.609146
+7,cluster_separation,cluster separation,0,12.14880041,12.14880041,0.000000,0.000000,0.000000

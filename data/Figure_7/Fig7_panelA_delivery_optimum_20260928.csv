@@ -1,0 +1,14 @@
+# Figure 7 panel A -- delivery_optimum (tumour arm). nominal = 24.04235557 uM O2
+"# FIVE outputs, SEVEN axes."
+"# ALL SEVEN AXES, SHARED ORDER, rows ascending -- the TOP bar is the LAST row"
+# in_arm=0 -> BLANK ROW: the axis cannot move this output at all
+# in_arm=1 with a 0 pct -> ONE-SIDED: that endpoint equals the nominal
+"# source: scripts/tornado_v2_results.csv, swept 2026-09-28 (not re-run)"
+row_from_bottom,axis,display_name,in_arm,value_at_axis_low,value_at_axis_high,pct_low,pct_high,abs_swing_pct
+1,KM_NOS2,K_m NOS2 (+V_max),1,21.68201251,24.04235557,-9.817437,0.000000,9.817437
+2,packing_fraction,packing fraction,1,25.07840058,23.28144352,4.309249,-3.164881,7.474131
+3,rim_O2,rim [O2],0,24.04235557,24.04235557,0.000000,0.000000,0.000000
+4,k_anoxia,k_anoxia,1,21.6227495,27.09904166,-10.063931,12.713755,22.777686
+5,mito_inhibition,"K_m,resp (+K_I)",0,24.04235557,24.04235557,0.000000,0.000000,0.000000
+6,D_NO,D_NO,1,15.8410151,24.04235557,-34.112051,0.000000,34.112051
+7,cluster_separation,cluster separation,1,60.97903184,15.5519675,153.631686,-35.314294,188.945980

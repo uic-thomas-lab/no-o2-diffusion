@@ -1,0 +1,14 @@
+# Figure 7 panel B -- reach_at_anoxia (perivascular arm). nominal = 40.57963266 um
+"# FIVE outputs, SEVEN axes."
+"# ALL SEVEN AXES, SHARED ORDER, rows ascending -- the TOP bar is the LAST row"
+# in_arm=0 -> BLANK ROW: the axis cannot move this output at all
+# in_arm=1 with a 0 pct -> ONE-SIDED: that endpoint equals the nominal
+"# source: scripts/tornado_v2_results.csv, swept 2026-09-28 (not re-run)"
+row_from_bottom,axis,display_name,in_arm,value_at_axis_low,value_at_axis_high,pct_low,pct_high,abs_swing_pct
+1,KM_NOS2,K_m NOS2 (+V_max),0,40.57963266,40.57963266,0.000000,0.000000,0.000000
+2,packing_fraction,packing fraction,0,40.57963266,40.57963266,0.000000,0.000000,0.000000
+3,rim_O2,rim [O2],0,40.57963266,40.57963266,0.000000,0.000000,0.000000
+4,k_anoxia,k_anoxia,1,51.48400149,31.97350204,26.871532,-21.208005,48.079537
+5,mito_inhibition,"K_m,resp (+K_I)",0,40.57963266,40.57963266,0.000000,0.000000,0.000000
+6,D_NO,D_NO,1,25.22355139,40.57963266,-37.841844,0.000000,37.841844
+7,cluster_separation,cluster separation,0,40.57963266,40.57963266,0.000000,0.000000,0.000000

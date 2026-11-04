@@ -1,0 +1,1346 @@
+[
+ {
+  "folder": "Figure_1",
+  "panel": "a",
+  "file": "fig1_panelE_RAW.csv",
+  "content": "NO diffusion length against oxygen",
+  "produced_by": "closed form, from the parameters in src/",
+  "bytes": 23471
+ },
+ {
+  "folder": "Figure_1",
+  "panel": "c",
+  "file": "fig1_panelG6_normalised.csv",
+  "content": "normalised steady-state NO against oxygen, three NOS isoforms",
+  "produced_by": "closed form, from the parameters in src/",
+  "bytes": 24940
+ },
+ {
+  "folder": "Figure_1",
+  "panel": "e",
+  "file": "fig2_panelB_RAW.csv",
+  "content": "share of NO removal carried by each route against oxygen",
+  "produced_by": "closed form, from the parameters in src/",
+  "bytes": 17434
+ },
+ {
+  "folder": "Figure_1",
+  "panel": "h",
+  "file": "fig1_panelD6_ORIGIN.csv",
+  "content": "reach of oxygen and of NO, four bars",
+  "produced_by": "closed form, from the parameters in src/",
+  "bytes": 106
+ },
+ {
+  "folder": "Figure_1",
+  "panel": "i",
+  "file": "fig1_panelF3_ORIGIN.csv",
+  "content": "NO against distance from the vessel, one curve per oxygen tension",
+  "produced_by": "closed form, from the parameters in src/",
+  "bytes": 15969
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_220uM.json",
+  "content": "3-D NO field at 220 uM O2 (metadata)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 1334
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_220uM.f32",
+  "content": "3-D NO field at 220 uM O2 (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 11212884
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_40uM.json",
+  "content": "3-D NO field at 40 uM O2 (metadata)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 1297
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_40uM.f32",
+  "content": "3-D NO field at 40 uM O2 (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 11212884
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_20uM.json",
+  "content": "3-D NO field at 20 uM O2 (metadata)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 1297
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_20uM.f32",
+  "content": "3-D NO field at 20 uM O2 (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 11212884
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_10uM.json",
+  "content": "3-D NO field at 10 uM O2 (metadata)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 1351
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_10uM.f32",
+  "content": "3-D NO field at 10 uM O2 (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 11212884
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_2uM.json",
+  "content": "3-D NO field at 2 uM O2 (metadata)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 1296
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_2uM.f32",
+  "content": "3-D NO field at 2 uM O2 (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 11212884
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_1uM.json",
+  "content": "3-D NO field at 1 uM O2 (metadata)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 1297
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "a-f",
+  "file": "oxygen_seed7_1uM.f32",
+  "content": "3-D NO field at 1 uM O2 (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fields_for_render.py",
+  "bytes": 11212884
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "g",
+  "file": "fig2_oxygen_ensemble.csv",
+  "content": "per-realization coverage and volume against oxygen",
+  "produced_by": "scripts/gen_fig2_oxygen_ensemble.py",
+  "bytes": 4191
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "g",
+  "file": "fig2_panelD_oxygen_v2.csv",
+  "content": "volume above 1 nM against oxygen, mean and s.d.",
+  "produced_by": "scripts/gen_fig2_dose_and_absolute_volume.py",
+  "bytes": 1493
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "g",
+  "file": "fig2_panelD_criterion_v2.csv",
+  "content": "coverage of the focus above 0.5-10 nM against oxygen",
+  "produced_by": "scripts/gen_fig2_criterion_dependence.py",
+  "bytes": 1160
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "h",
+  "file": "fig2_panelI_bridging.csv",
+  "content": "nearest-neighbour gaps bridged only by the population",
+  "produced_by": "scripts/gen_fig2_* family",
+  "bytes": 2324
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "i-k",
+  "file": "fixedtissue_2pct.json",
+  "content": "3-D NO field, 2% NOS2+ in the fixed tissue (metadata)",
+  "produced_by": "scripts/export_fig2_fixedtissue_for_render.py",
+  "bytes": 2028
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "i-k",
+  "file": "fixedtissue_2pct.f32",
+  "content": "3-D NO field, 2% NOS2+ in the fixed tissue (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fixedtissue_for_render.py",
+  "bytes": 63253004
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "i-k",
+  "file": "fixedtissue_15pct.json",
+  "content": "3-D NO field, 15% NOS2+ in the fixed tissue (metadata)",
+  "produced_by": "scripts/export_fig2_fixedtissue_for_render.py",
+  "bytes": 9806
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "i-k",
+  "file": "fixedtissue_15pct.f32",
+  "content": "3-D NO field, 15% NOS2+ in the fixed tissue (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fixedtissue_for_render.py",
+  "bytes": 63253004
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "i-k",
+  "file": "fixedtissue_40pct.json",
+  "content": "3-D NO field, 40% NOS2+ in the fixed tissue (metadata)",
+  "produced_by": "scripts/export_fig2_fixedtissue_for_render.py",
+  "bytes": 24645
+ },
+ {
+  "folder": "Figure_2",
+  "panel": "i-k",
+  "file": "fixedtissue_40pct.f32",
+  "content": "3-D NO field, 40% NOS2+ in the fixed tissue (float32 volume, layout in the .json)",
+  "produced_by": "scripts/export_fig2_fixedtissue_for_render.py",
+  "bytes": 63253004
+ },
+ {
+  "folder": "Figure_3",
+  "panel": "a",
+  "file": "fig3A_profiles.csv",
+  "content": "NO and O2 against distance from the vessel, three source depths",
+  "produced_by": "scripts/gate4_vessel_pair.py",
+  "bytes": 18566
+ },
+ {
+  "folder": "Figure_3",
+  "panel": "b, c",
+  "file": "primary_functional_reach.csv",
+  "content": "signalling extent and inward/outward reach against source depth",
+  "produced_by": "scripts/primary_functional_reach.py",
+  "bytes": 3192
+ },
+ {
+  "folder": "Figure_3",
+  "panel": "d",
+  "file": "gate16_refined_5um.csv",
+  "content": "widest sustaining spacing s_max_parallel against distance from the vessel",
+  "produced_by": "scripts/gate16_spherical_periodic_row.py",
+  "bytes": 3031
+ },
+ {
+  "folder": "Figure_4",
+  "panel": "b",
+  "file": "fig4_cutaway_profiles.csv",
+  "content": "radial O2 and NO profiles, every sphere in the cutaway matrix",
+  "produced_by": "scripts/export_fig4_cutaways.py",
+  "bytes": 348204
+ },
+ {
+  "folder": "Figure_4",
+  "panel": "b",
+  "file": "fig4_cutaway_markers.csv",
+  "content": "radius of maximal NO and contour radii, every sphere",
+  "produced_by": "scripts/export_fig4_cutaways.py",
+  "bytes": 458
+ },
+ {
+  "folder": "Figure_4",
+  "panel": "a, d",
+  "file": "fig4_D_ablation_profiles.csv",
+  "content": "radial profiles, full model and each coupling removed",
+  "produced_by": "scripts/spheroid_ablation.py",
+  "bytes": 209266
+ },
+ {
+  "folder": "Figure_4",
+  "panel": "a, d",
+  "file": "fig4_D_ablation_markers.csv",
+  "content": "central NO, anoxic radius and sGC front, each ablation",
+  "produced_by": "scripts/spheroid_ablation.py",
+  "bytes": 271
+ },
+ {
+  "folder": "Figure_4",
+  "panel": "c",
+  "file": "fig4_B_delta.csv",
+  "content": "delta_d against NOS2+ fraction",
+  "produced_by": "scripts/gen_fig4_panels.py, scripts/refine_fig4_boundaries.py",
+  "bytes": 285
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.005_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1292
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.005_enos1_k2000_m417.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1278
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.005_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 895
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.01_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1302
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.02_enos0_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 369
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.02_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1299
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.02_enos1_k2000_m200.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1290
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.02_enos1_k2000_m300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1285
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.02_enos1_k2000_m400.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1282
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.02_enos1_k2000_m417.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1289
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.02_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1288
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.05_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1285
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.05_enos1_k2000_m200.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1265
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.05_enos1_k2000_m300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1267
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.05_enos1_k2000_m400.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1269
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.05_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1271
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.15_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1279
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.4_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1274
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_100_f0.4_enos1_k2000_m417.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1263
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.005_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1278
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.005_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1277
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.01_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1290
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.01_enos1_k2000_m300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 907
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.01_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1086
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos0_k1300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 368
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos0_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 370
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos0_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1073
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos0_k3500.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 369
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos1_k1300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 367
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1284
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos1_k2000_m200.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1287
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos1_k2000_m300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1288
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos1_k2000_m400.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1286
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1286
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.02_enos1_k3500.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 369
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.05_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1268
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.05_enos1_k2000_m200.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1264
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.05_enos1_k2000_m300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1267
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.05_enos1_k2000_m400.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1265
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.05_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1273
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.15_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1276
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.4_enos0_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1051
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.4_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1263
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_150_f0.4_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1263
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.005_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1300
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.005_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1299
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.01_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1302
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.01_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1092
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.02_enos0_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 370
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.02_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1289
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.02_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 749
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.05_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1288
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.15_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1287
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.4_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1280
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_250_f0.4_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1276
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.005_enos0_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1084
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.005_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1300
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.005_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1297
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.01_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1303
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.01_enos1_k2000_nofb.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 395
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.02_enos0_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 387
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.02_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1307
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.02_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1107
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.02_enos1_k2000_nofb.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 410
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.05_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1309
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.05_enos1_k2000_nofb.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 410
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.15_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1311
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.15_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 924
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.15_enos1_k2000_nofb.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 408
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.4_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1282
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_400_f0.4_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1277
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.005_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1272
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.005_enos1_k2000_m250.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1273
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.01_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1288
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.01_enos1_k2000_m250.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 750
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.01_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1087
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.02_enos0_k1300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 368
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.02_enos0_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 369
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.02_enos0_k3500.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 369
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.02_enos1_k1300.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 367
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.02_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1290
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.02_enos1_k2000_m250.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 750
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.02_enos1_k3500.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 367
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.05_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1285
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.15_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1275
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.4_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1263
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.4_enos1_k2000_m250.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1263
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_60_f0.4_enos1_k2000_m600.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 885
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.005_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1276
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.005_enos1_k2000_m312.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1280
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.01_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1287
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.02_enos0_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 368
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.02_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1290
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.02_enos1_k2000_m312.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1283
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.05_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1269
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.15_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1275
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.4_enos1_k2000.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1260
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_results",
+  "panel": "Figures 5, 6",
+  "file": "cell_75_f0.4_enos1_k2000_m312.json",
+  "content": "unit-cell FEM result, one spacing x NOS2+ fraction x NOS3 state",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 1258
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_100.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 872068
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_100_f0.005.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 848260
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_100_f0.02.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 840004
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_100_f0.40.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 872068
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_150.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 893379
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_150_f0.005.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 844243
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_150_f0.01.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 842635
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_150_f0.02.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 843574
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_150_f0.40.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 893379
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_250.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 844286
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_250_f0.005.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 850480
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_250_f0.01.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 841757
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_250_f0.02.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 842540
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_250_f0.40.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 844286
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_400.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 849645
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_400_f0.005.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 850417
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_400_f0.02.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 843115
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_400_f0.40.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 849645
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_60.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 877859
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_60_f0.005.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 847649
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_60_f0.01.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 850882
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_60_f0.02.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 876527
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_60_f0.40.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 877859
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_75.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 864181
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_75_f0.005.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 846429
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_75_f0.02.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 842928
+ },
+ {
+  "folder": "Figure_5_6/unit_cell_fields",
+  "panel": "Figures 5, 6",
+  "file": "cellfield_75_f0.40.json",
+  "content": "unit-cell FEM field on a grid",
+  "produced_by": "scripts/vascular_unit_cell_fem.wl",
+  "bytes": 864181
+ },
+ {
+  "folder": "Figure_5_6",
+  "panel": "Fig 6b",
+  "file": "Fig5_surface_data.csv",
+  "content": "mean tissue NO over spacing x NOS2+ fraction",
+  "produced_by": "summary of unit_cell_results",
+  "bytes": 1125
+ },
+ {
+  "folder": "Figure_5_6",
+  "panel": "Fig 6c",
+  "file": "Fig5_panelE_profiles.csv",
+  "content": "NO averaged around the vessel against distance from the wall",
+  "produced_by": "summary of unit_cell_fields",
+  "bytes": 19800
+ },
+ {
+  "folder": "Figure_7",
+  "panel": "a-e",
+  "file": "tornado_v2_results.csv",
+  "content": "one-at-a-time sensitivity sweep, every output x parameter endpoint",
+  "produced_by": "scripts/tornado_v2.py",
+  "bytes": 3342
+ },
+ {
+  "folder": "Figure_7",
+  "panel": "a",
+  "file": "Fig7_panelA_delivery_optimum_20260928.csv",
+  "content": "plotted bars for panel a",
+  "produced_by": "reshaped from tornado_v2_results.csv",
+  "bytes": 1097
+ },
+ {
+  "folder": "Figure_7",
+  "panel": "b",
+  "file": "Fig7_panelB_reach_at_anoxia_20260928.csv",
+  "content": "plotted bars for panel b",
+  "produced_by": "reshaped from tornado_v2_results.csv",
+  "bytes": 1094
+ },
+ {
+  "folder": "Figure_7",
+  "panel": "c",
+  "file": "Fig7_panelC_wall_no_20260928.csv",
+  "content": "plotted bars for panel c",
+  "produced_by": "reshaped from tornado_v2_results.csv",
+  "bytes": 1087
+ },
+ {
+  "folder": "Figure_7",
+  "panel": "d",
+  "file": "Fig7_panelD_steady_state_no_20260928.csv",
+  "content": "plotted bars for panel d",
+  "produced_by": "reshaped from tornado_v2_results.csv",
+  "bytes": 1111
+ },
+ {
+  "folder": "Figure_7",
+  "panel": "e",
+  "file": "Fig7_panelE_effective_mitochondrial_km_20260928.csv",
+  "content": "plotted bars for panel e",
+  "produced_by": "reshaped from tornado_v2_results.csv",
+  "bytes": 1109
+ }
+]

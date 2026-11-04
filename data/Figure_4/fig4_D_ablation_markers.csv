@@ -1,0 +1,4 @@
+state,R_um,r_anoxic_um,r_o2shell_um,r_max_um,no_max_nM,no_centre_nM,no_rim_nM,r_sgc_front_um
+full,425.0,88.4,369.5,386.8,21.789,1.577,21.612,0.0
+no_resp_feedback,425.0,187.8,381.1,406.8,21.456,0.539,21.424,100.7
+no_o2_gating,425.0,0.0,362.6,,58.754,58.754,24.466,0.0

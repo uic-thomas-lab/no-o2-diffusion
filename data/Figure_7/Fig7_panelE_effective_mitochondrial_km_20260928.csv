@@ -1,0 +1,14 @@
+# Figure 7 panel E -- effective_mitochondrial_km (perivascular arm). nominal = 4.557410224 uM O2
+"# FIVE outputs, SEVEN axes."
+"# ALL SEVEN AXES, SHARED ORDER, rows ascending -- the TOP bar is the LAST row"
+# in_arm=0 -> BLANK ROW: the axis cannot move this output at all
+# in_arm=1 with a 0 pct -> ONE-SIDED: that endpoint equals the nominal
+"# source: scripts/tornado_v2_results.csv, swept 2026-09-28 (not re-run)"
+row_from_bottom,axis,display_name,in_arm,value_at_axis_low,value_at_axis_high,pct_low,pct_high,abs_swing_pct
+1,KM_NOS2,K_m NOS2 (+V_max),0,4.557410224,4.557410224,0.000000,0.000000,0.000000
+2,packing_fraction,packing fraction,0,4.557410224,4.557410224,0.000000,0.000000,0.000000
+3,rim_O2,rim [O2],1,4.449126742,4.557410224,-2.375987,0.000000,2.375987
+4,k_anoxia,k_anoxia,1,4.802559468,4.364000718,5.379135,-4.243847,9.622982
+5,mito_inhibition,"K_m,resp (+K_I)",1,2.175296219,6.717249969,-52.269028,47.391822,99.660850
+6,D_NO,D_NO,1,5.988000972,4.557410224,31.390432,0.000000,31.390432
+7,cluster_separation,cluster separation,0,4.557410224,4.557410224,0.000000,0.000000,0.000000
