@@ -2,7 +2,7 @@
 
 This repository holds the model, the simulation code and the simulation outputs behind every figure in
 
-> Thomas DD. *Oxygen dictates the spatial reach of nitric oxide through coupled synthesis and catalytic degradation.* (submitted)
+> Thomas DD. *Oxygen determines where nitric oxide signals in tissue.* (submitted)
 
 The model couples oxygen-dependent NO synthesis by the three NOS isoforms to a measured two-route cellular NO sink, one route oxygen-dependent and one oxygen-independent. It solves the coupled O2/NO transport problem in a perivascular slab, in tissue containing discrete NOS2-expressing cells, along a vessel, in a spherical tumor and in a vascularized tumor represented as a periodic unit cell.
 
